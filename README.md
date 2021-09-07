@@ -7,7 +7,7 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats-kevflo.vercel.app/api?username=KevFlo&hide=stars&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-kevflo.vercel.app/api?username=KevFlo&hide=stars&show_icons=true&theme=nord)
 
 
 ---
