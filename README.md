@@ -8,7 +8,7 @@
 
 <!--START_SECTION:activity-->
 
-
+<!--END_SECTION:activity-->
 
 <!---
 KevFlo/KevFlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
