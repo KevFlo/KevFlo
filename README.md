@@ -2,7 +2,21 @@
 - 👀 I’m interested in cybersecurity and cluster computing
 - 🌱 I’m currently learning how to manage a k3s cluster of raspberrypies
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me floreskevin51398@gmail.com
+
+!-- Actual text -->
+
+You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: https://i.imgur.com/7b2EY3X.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.instagram.com/kevoobot/
+[2]: https://www.linkedin.com/in/flores-kevin/
+
 
 
 ---
