@@ -8,7 +8,7 @@
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats-kevflo.vercel.app/api?username=KevFlo&hide=stars&show_icons=true&theme=nord)
-
+[![Top Langs](https://github-readme-stats-kevflo.vercel.app/top-langs/?username=KevFlo)]
 
 ---
 
