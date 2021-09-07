@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me floreskevin51398@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats-kevflo.vercel.app/api?username=KevFlo&hide=stars)
-)]
+![Anurag's GitHub stats](https://github-readme-stats-kevflo.vercel.app/api?username=KevFlo&hide=stars)
+
 
 
 <!---
