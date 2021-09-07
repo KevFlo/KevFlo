@@ -7,8 +7,8 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats-kevflo.vercel.app/api?username=KevFlo&hide=stars&show_icons=true&theme=nord)
-[![Top Langs](https://github-readme-stats-kevflo.vercel.app/api/top-langs/?username=KevFlo&langs_count=5&show_icons=true&theme=nord)]
+![Anurag's GitHub stats](https://github-readme-stats-kevflo.vercel.app/api?username=KevFlo&count_private=true&hide=stars&show_icons=true&theme=nord)
+![Top Langs](https://github-readme-stats-kevflo.vercel.app/api/top-langs/?username=KevFlo&langs_count=5&show_icons=true&theme=nord)
 
 ---
 
