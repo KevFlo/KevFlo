@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me floreskevin51398@gmail.com
 
+[![Anurag's GitHub stats](https://github-readme-stats-kevflo.vercel.app/api?username=KevFlo)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 KevFlo/KevFlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
