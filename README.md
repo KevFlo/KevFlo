@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to manage a k3s cluster of raspberrypies
 - 💞️ I’m looking to collaborate on ...
 
-!-- Actual text -->
+
 
 You can find me on [![LinkedIn][3.2]][3].
 
@@ -13,8 +13,7 @@ You can find me on [![LinkedIn][3.2]][3].
 
 <!-- Links to your social media accounts -->
 
-[1]: https://www.instagram.com/kevoobot/
-[2]: https://www.linkedin.com/in/flores-kevin/
+[3]: https://www.linkedin.com/in/flores-kevin/
 
 
 
