@@ -9,7 +9,7 @@ You can find me on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
-[2.2]: https://i.imgur.com/HebCvcns.png (LinkedIn icon without padding)
+[3.2]: https://i.imgur.com/HebCvcns.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
