@@ -9,15 +9,15 @@ You can find me on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
-[3.2]: https://simpleicons.org/icons/linkedin.svg (LinkedIn icon without padding)
+[3.2]: https://imgur.com/17KjNZj (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
 [3]: https://www.linkedin.com/in/flores-kevin/
----
+
 
 <a>
-    <img src="https://img.shields.io/badge/-Commonly%20Used%20Languages-lightgrey">
+    <img src="https://img.shields.io/badge/-Commonly%20Used%20Tools-lightgreyk ">
 </a>
 
 
