@@ -5,11 +5,10 @@
 
 !-- Actual text -->
 
-You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
-[1.2]: https://i.imgur.com/7b2EY3Xs.png (twitter icon without padding)
 [2.2]: https://i.imgur.com/HebCvcns.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
@@ -29,7 +28,6 @@ You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][3.2]][3].
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 ---
