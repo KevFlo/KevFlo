@@ -15,7 +15,11 @@ You can find me on [![LinkedIn][3.2]][3].
 
 [3]: https://www.linkedin.com/in/flores-kevin/
 ---
-https://img.shields.io/badge/-Commonly%20Used%20Languages-lightgrey
+
+<a>
+    <img src="https://img.shields.io/badge/-Commonly%20Used%20Languages-lightgrey">
+</a>
+
 
 
 ---
