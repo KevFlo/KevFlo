@@ -9,7 +9,7 @@ You can find me on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
-[3.2]: https://simpleicons.org/icons/linkedin.svg(LinkedIn icon without padding)
+[3.2]: https://simpleicons.org/icons/linkedin.svg (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
