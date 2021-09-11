@@ -9,8 +9,7 @@ You can find me on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
-[3.2]: https://imgur.com/p0FEQ56.png (LinkedIn icon without padding)
-[Imgur](https://i.imgur.com/p0FEQ56.png)
+[3.2]: https://i.imgur.com/IwuydvD.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
