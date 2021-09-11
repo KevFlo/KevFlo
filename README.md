@@ -5,7 +5,7 @@
 
 
 
-You can find me on [![LinkedIn][Imgur]][3].
+You can find me on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
