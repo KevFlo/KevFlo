@@ -9,7 +9,7 @@ You can find me on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
-[3.2]: https://imgur.com/17KjNZj (LinkedIn icon without padding)
+[3.2]: (G:\VS-repos\KevFlo\In-Black-14px.png) (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
