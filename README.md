@@ -9,7 +9,7 @@ You can find me on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
-[3.2]: https://imgur.com/17KjNZj (LinkedIn icon without padding)
+[3.2]: https://i.imgur.com/IwuydvD.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
@@ -35,6 +35,16 @@ You can find me on [![LinkedIn][3.2]][3].
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#278](https://github.com/CougarCS/CougarCS-Client/issues/278) in [CougarCS/CougarCS-Client](https://github.com/CougarCS/CougarCS-Client)
+2. 🗣 Commented on [#278](https://github.com/CougarCS/CougarCS-Client/issues/278) in [CougarCS/CougarCS-Client](https://github.com/CougarCS/CougarCS-Client)
+3. 🗣 Commented on [#278](https://github.com/CougarCS/CougarCS-Client/issues/278) in [CougarCS/CougarCS-Client](https://github.com/CougarCS/CougarCS-Client)
+4. 🎉 Merged PR [#105](https://github.com/CougarCS/CougarCS-Backend/pull/105) in [CougarCS/CougarCS-Backend](https://github.com/CougarCS/CougarCS-Backend)
+5. 🗣 Commented on [#265](https://github.com/CougarCS/CougarCS-Client/issues/265) in [CougarCS/CougarCS-Client](https://github.com/CougarCS/CougarCS-Client)
+6. 🗣 Commented on [#40](https://github.com/CougarCS/CougarCS-Client/issues/40) in [CougarCS/CougarCS-Client](https://github.com/CougarCS/CougarCS-Client)
+7. 🗣 Commented on [#265](https://github.com/CougarCS/CougarCS-Client/issues/265) in [CougarCS/CougarCS-Client](https://github.com/CougarCS/CougarCS-Client)
+8. 💪 Opened PR [#265](https://github.com/CougarCS/CougarCS-Client/pull/265) in [CougarCS/CougarCS-Client](https://github.com/CougarCS/CougarCS-Client)
+9. 🎉 Merged PR [#264](https://github.com/CougarCS/CougarCS-Client/pull/264) in [CougarCS/CougarCS-Client](https://github.com/CougarCS/CougarCS-Client)
+10. 💪 Opened PR [#264](https://github.com/CougarCS/CougarCS-Client/pull/264) in [CougarCS/CougarCS-Client](https://github.com/CougarCS/CougarCS-Client)
 <!--END_SECTION:activity-->
 
 ---
