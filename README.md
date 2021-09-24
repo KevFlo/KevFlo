@@ -18,9 +18,7 @@ You can find me on [![LinkedIn][3.2]][3].
 
 <a>
     <img src="https://img.shields.io/badge/-Commonly%20Used%20Tools-lightgrey ">
-    <li>
-        
-    </li>
+    <li>Visual Studio Code</li> <li>MS Teams</li> <li>Asana</li>
 </a>
 
 
