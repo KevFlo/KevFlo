@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @KevFlo
 - 👀 I’m interested in cybersecurity and cluster computing
 - 🌱 I’m currently learning how to manage a k3s cluster of raspberrypies
-- 💞️ I’m looking to collaborate on ...
-
 
 
 You can find me on [![LinkedIn][3.2]][3].
