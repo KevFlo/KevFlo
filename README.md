@@ -31,16 +31,16 @@ You can find me on [![LinkedIn][3.2]][3].
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#125](https://github.com/CougarCS/CougarCS-Backend/pull/125) in [CougarCS/CougarCS-Backend](https://github.com/CougarCS/CougarCS-Backend)
-2. 🎉 Merged PR [#121](https://github.com/CougarCS/CougarCS-Backend/pull/121) in [CougarCS/CougarCS-Backend](https://github.com/CougarCS/CougarCS-Backend)
-3. 🎉 Merged PR [#124](https://github.com/CougarCS/CougarCS-Backend/pull/124) in [CougarCS/CougarCS-Backend](https://github.com/CougarCS/CougarCS-Backend)
-4. 🎉 Merged PR [#120](https://github.com/CougarCS/CougarCS-Backend/pull/120) in [CougarCS/CougarCS-Backend](https://github.com/CougarCS/CougarCS-Backend)
-5. 🎉 Merged PR [#119](https://github.com/CougarCS/CougarCS-Backend/pull/119) in [CougarCS/CougarCS-Backend](https://github.com/CougarCS/CougarCS-Backend)
-6. 🎉 Merged PR [#118](https://github.com/CougarCS/CougarCS-Backend/pull/118) in [CougarCS/CougarCS-Backend](https://github.com/CougarCS/CougarCS-Backend)
-7. 🎉 Merged PR [#318](https://github.com/CougarCS/CougarCS-Client/pull/318) in [CougarCS/CougarCS-Client](https://github.com/CougarCS/CougarCS-Client)
-8. 🎉 Merged PR [#316](https://github.com/CougarCS/CougarCS-Client/pull/316) in [CougarCS/CougarCS-Client](https://github.com/CougarCS/CougarCS-Client)
-9. 🎉 Merged PR [#315](https://github.com/CougarCS/CougarCS-Client/pull/315) in [CougarCS/CougarCS-Client](https://github.com/CougarCS/CougarCS-Client)
-10. 🎉 Merged PR [#314](https://github.com/CougarCS/CougarCS-Client/pull/314) in [CougarCS/CougarCS-Client](https://github.com/CougarCS/CougarCS-Client)
+1. 🎉 Merged PR [#128](https://github.com/CougarCS/CougarCS-Backend/pull/128) in [CougarCS/CougarCS-Backend](https://github.com/CougarCS/CougarCS-Backend)
+2. 🎉 Merged PR [#325](https://github.com/CougarCS/CougarCS-Client/pull/325) in [CougarCS/CougarCS-Client](https://github.com/CougarCS/CougarCS-Client)
+3. 🎉 Merged PR [#323](https://github.com/CougarCS/CougarCS-Client/pull/323) in [CougarCS/CougarCS-Client](https://github.com/CougarCS/CougarCS-Client)
+4. 🎉 Merged PR [#321](https://github.com/CougarCS/CougarCS-Client/pull/321) in [CougarCS/CougarCS-Client](https://github.com/CougarCS/CougarCS-Client)
+5. 🎉 Merged PR [#320](https://github.com/CougarCS/CougarCS-Client/pull/320) in [CougarCS/CougarCS-Client](https://github.com/CougarCS/CougarCS-Client)
+6. 🎉 Merged PR [#319](https://github.com/CougarCS/CougarCS-Client/pull/319) in [CougarCS/CougarCS-Client](https://github.com/CougarCS/CougarCS-Client)
+7. 🗣 Commented on [#286](https://github.com/CougarCS/CougarCS-Client/issues/286) in [CougarCS/CougarCS-Client](https://github.com/CougarCS/CougarCS-Client)
+8. 🎉 Merged PR [#123](https://github.com/CougarCS/CougarCS-Backend/pull/123) in [CougarCS/CougarCS-Backend](https://github.com/CougarCS/CougarCS-Backend)
+9. 🎉 Merged PR [#129](https://github.com/CougarCS/CougarCS-Backend/pull/129) in [CougarCS/CougarCS-Backend](https://github.com/CougarCS/CougarCS-Backend)
+10. 🎉 Merged PR [#125](https://github.com/CougarCS/CougarCS-Backend/pull/125) in [CougarCS/CougarCS-Backend](https://github.com/CougarCS/CougarCS-Backend)
 <!--END_SECTION:activity-->
 
 ---
