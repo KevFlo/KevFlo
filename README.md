@@ -31,16 +31,16 @@ You can find me on [![LinkedIn][3.2]][3].
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/shubhsheth/iamshubh/issues/23) in [shubhsheth/iamshubh](https://github.com/shubhsheth/iamshubh)
-2. 💪 Opened PR [#23](https://github.com/shubhsheth/iamshubh/pull/23) in [shubhsheth/iamshubh](https://github.com/shubhsheth/iamshubh)
-3. ❗️ Opened issue [#22](https://github.com/shubhsheth/iamshubh/issues/22) in [shubhsheth/iamshubh](https://github.com/shubhsheth/iamshubh)
-4. 🎉 Merged PR [#371](https://github.com/CougarCS/CougarCS-Client/pull/371) in [CougarCS/CougarCS-Client](https://github.com/CougarCS/CougarCS-Client)
-5. 🎉 Merged PR [#418](https://github.com/CougarCS/CougarCS-Client/pull/418) in [CougarCS/CougarCS-Client](https://github.com/CougarCS/CougarCS-Client)
-6. 🎉 Merged PR [#414](https://github.com/CougarCS/CougarCS-Client/pull/414) in [CougarCS/CougarCS-Client](https://github.com/CougarCS/CougarCS-Client)
-7. 💪 Opened PR [#414](https://github.com/CougarCS/CougarCS-Client/pull/414) in [CougarCS/CougarCS-Client](https://github.com/CougarCS/CougarCS-Client)
-8. 🎉 Merged PR [#412](https://github.com/CougarCS/CougarCS-Client/pull/412) in [CougarCS/CougarCS-Client](https://github.com/CougarCS/CougarCS-Client)
-9. 🗣 Commented on [#402](https://github.com/CougarCS/CougarCS-Client/issues/402) in [CougarCS/CougarCS-Client](https://github.com/CougarCS/CougarCS-Client)
-10. 🎉 Merged PR [#404](https://github.com/CougarCS/CougarCS-Client/pull/404) in [CougarCS/CougarCS-Client](https://github.com/CougarCS/CougarCS-Client)
+1. 🗣 Commented on [#244](https://github.com/CougarCS/CougarCS-Client/issues/244) in [CougarCS/CougarCS-Client](https://github.com/CougarCS/CougarCS-Client)
+2. ❗️ Closed issue [#1](https://github.com/Machevin/Clientv2/issues/1) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
+3. ❗️ Closed issue [#7](https://github.com/Machevin/Clientv2/issues/7) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
+4. ❗️ Closed issue [#8](https://github.com/Machevin/Clientv2/issues/8) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
+5. ❗️ Opened issue [#8](https://github.com/Machevin/Clientv2/issues/8) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
+6. ❗️ Closed issue [#6](https://github.com/Machevin/Clientv2/issues/6) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
+7. ❗️ Opened issue [#7](https://github.com/Machevin/Clientv2/issues/7) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
+8. ❗️ Opened issue [#6](https://github.com/Machevin/Clientv2/issues/6) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
+9. ❗️ Opened issue [#5](https://github.com/Machevin/Clientv2/issues/5) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
+10. ❗️ Opened issue [#4](https://github.com/Machevin/Clientv2/issues/4) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
 <!--END_SECTION:activity-->
 
 ---
