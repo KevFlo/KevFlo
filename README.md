@@ -31,16 +31,16 @@ You can find me on [![LinkedIn][3.2]][3].
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#437](https://github.com/CougarCS/CougarCS-Client/pull/437) in [CougarCS/CougarCS-Client](https://github.com/CougarCS/CougarCS-Client)
-2. ❗️ Opened issue [#17](https://github.com/Machevin/Clientv2/issues/17) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
-3. ❗️ Opened issue [#16](https://github.com/Machevin/Clientv2/issues/16) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
-4. ❗️ Opened issue [#15](https://github.com/Machevin/Clientv2/issues/15) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
-5. ❗️ Opened issue [#14](https://github.com/Machevin/Clientv2/issues/14) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
-6. ❗️ Closed issue [#5](https://github.com/Machevin/Clientv2/issues/5) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
-7. 🎉 Merged PR [#13](https://github.com/Machevin/Clientv2/pull/13) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
-8. 🎉 Merged PR [#1](https://github.com/maniden812/Clientv2/pull/1) in [maniden812/Clientv2](https://github.com/maniden812/Clientv2)
-9. 🎉 Merged PR [#12](https://github.com/Machevin/Clientv2/pull/12) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
-10. 💪 Opened PR [#12](https://github.com/Machevin/Clientv2/pull/12) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
+1. 🎉 Merged PR [#438](https://github.com/CougarCS/CougarCS-Client/pull/438) in [CougarCS/CougarCS-Client](https://github.com/CougarCS/CougarCS-Client)
+2. 🎉 Merged PR [#437](https://github.com/CougarCS/CougarCS-Client/pull/437) in [CougarCS/CougarCS-Client](https://github.com/CougarCS/CougarCS-Client)
+3. ❗️ Opened issue [#17](https://github.com/Machevin/Clientv2/issues/17) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
+4. ❗️ Opened issue [#16](https://github.com/Machevin/Clientv2/issues/16) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
+5. ❗️ Opened issue [#15](https://github.com/Machevin/Clientv2/issues/15) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
+6. ❗️ Opened issue [#14](https://github.com/Machevin/Clientv2/issues/14) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
+7. ❗️ Closed issue [#5](https://github.com/Machevin/Clientv2/issues/5) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
+8. 🎉 Merged PR [#13](https://github.com/Machevin/Clientv2/pull/13) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
+9. 🎉 Merged PR [#1](https://github.com/maniden812/Clientv2/pull/1) in [maniden812/Clientv2](https://github.com/maniden812/Clientv2)
+10. 🎉 Merged PR [#12](https://github.com/Machevin/Clientv2/pull/12) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
 <!--END_SECTION:activity-->
 
 ---
