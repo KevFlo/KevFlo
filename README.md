@@ -31,16 +31,16 @@ You can find me on [![LinkedIn][3.2]][3].
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/Machevin/Clientv2/pull/22) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
-2. 💪 Opened PR [#22](https://github.com/Machevin/Clientv2/pull/22) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
-3. 💪 Opened PR [#7](https://github.com/KevFlo/CougarCS-Backend/pull/7) in [KevFlo/CougarCS-Backend](https://github.com/KevFlo/CougarCS-Backend)
-4. 🎉 Merged PR [#19](https://github.com/Machevin/Clientv2/pull/19) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
-5. ❗️ Closed issue [#20](https://github.com/Machevin/Clientv2/issues/20) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
-6. ❗️ Opened issue [#20](https://github.com/Machevin/Clientv2/issues/20) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
-7. 💪 Opened PR [#19](https://github.com/Machevin/Clientv2/pull/19) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
-8. 🗣 Commented on [#14](https://github.com/Machevin/Clientv2/issues/14) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
-9. 🗣 Commented on [#17](https://github.com/Machevin/Clientv2/issues/17) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
-10. 🗣 Commented on [#15](https://github.com/Machevin/Clientv2/issues/15) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
+1. 🎉 Merged PR [#23](https://github.com/Machevin/Clientv2/pull/23) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
+2. 💪 Opened PR [#23](https://github.com/Machevin/Clientv2/pull/23) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
+3. 🎉 Merged PR [#22](https://github.com/Machevin/Clientv2/pull/22) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
+4. 💪 Opened PR [#22](https://github.com/Machevin/Clientv2/pull/22) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
+5. 💪 Opened PR [#7](https://github.com/KevFlo/CougarCS-Backend/pull/7) in [KevFlo/CougarCS-Backend](https://github.com/KevFlo/CougarCS-Backend)
+6. 🎉 Merged PR [#19](https://github.com/Machevin/Clientv2/pull/19) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
+7. ❗️ Closed issue [#20](https://github.com/Machevin/Clientv2/issues/20) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
+8. ❗️ Opened issue [#20](https://github.com/Machevin/Clientv2/issues/20) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
+9. 💪 Opened PR [#19](https://github.com/Machevin/Clientv2/pull/19) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
+10. 🗣 Commented on [#14](https://github.com/Machevin/Clientv2/issues/14) in [Machevin/Clientv2](https://github.com/Machevin/Clientv2)
 <!--END_SECTION:activity-->
 
 ---
