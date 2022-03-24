@@ -25,7 +25,7 @@ You can find me on [![LinkedIn][3.2]][3].
 
 ![KevFlo's GitHub stats](https://github-readme-stats-kevflo.vercel.app/api?username=KevFlo&count_private=true&hide=stars&show_icons=true&theme=nord)
 ![Top Langs](https://github-readme-stats-kevflo.vercel.app/api/top-langs/?username=KevFlo&langs_count=5&show_icons=true&theme=nord)
-![KevFlo wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@KevFlo](https://github.com/anuraghazra/github-readme-stats)
+[![KevFlo wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KevFlo](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
