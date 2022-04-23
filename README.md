@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KevFlo
-- 👀 I’m interested in Cybersecurity, DevOps, and Network Administration
-- 🌱 I’m currently working on TryHackMe OSI Models and a cluster computation project using 6 raspberrypies
 
+<h1> Hey there! I'm Kevin.</h1>
+- 🌱 I’m currently working on TryHackMe OSI Models and a cluster computation project using 6 raspberrypies
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/YQitE4YNQNahy/giphy.gif?cid=790b761138a5421780f34de8e73ed6bc1437ef874f0d95c8&rid=giphy.gif&ct=g" width="500"/>
 
 Visit my webpage: [kevinflores.net](https://kevinflores.net/)
 
@@ -11,6 +11,7 @@ Dev Music!!!!
 
 
 You can find me on:
+
 
  [![LinkedIn][3.2]][3].
 
@@ -23,12 +24,25 @@ You can find me on:
 [3]: https://www.linkedin.com/in/flores-kevin/
 
 
-<a>
-    <img src="https://img.shields.io/badge/-Commonly%20Used%20Tools-lightgrey ">
-    <li>Visual Studio Code</li> <li>MS Teams</li> <li>Asana</li> <li>Discord</li> <li>Docker</li>
-</a>
 
+## 🚀💻 Technologies & Tools
 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
+![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
