@@ -25,7 +25,7 @@ You can find me on:
 [3]: https://www.linkedin.com/in/flores-kevin/
 [2]: https://www.instagram.com/kevoobot/
 
-
+---
 
 ## 🚀💻 Technologies & Tools
 
@@ -55,7 +55,7 @@ You can find me on:
 
 ---
 
-### :zap: Recent Activity
+<h2> Recent Activity </h2>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KevFlo&theme=nord)](https://git.io/streak-stats)
 
