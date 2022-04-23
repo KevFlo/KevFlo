@@ -13,15 +13,17 @@ Dev Music!!!!
 You can find me on:
 
 
- [![LinkedIn][3.2]][3].
+ [![LinkedIn][3.2]][3] [![Instagram][2.2]][2]
 
 <!-- Icons -->
 
 [3.2]: https://i.imgur.com/IwuydvD.png (LinkedIn icon without padding)
+[2.2]: https://img.icons8.com/color/25/000000/instagram-new--v1.png
 
 <!-- Links to your social media accounts -->
 
 [3]: https://www.linkedin.com/in/flores-kevin/
+[2]: https://www.instagram.com/kevoobot/
 
 
 
@@ -81,7 +83,7 @@ You can find me on:
 
 ![Visitor Count](https://profile-counter.glitch.me/KevFlo/count.svg)
 
-
+<a target="_blank" href="https://icons8.com/icon/32323/instagram">Instagram icon by Icons8</a>
 <!---
 KevFlo/KevFlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
