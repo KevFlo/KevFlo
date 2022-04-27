@@ -1,7 +1,7 @@
 
 <h1> Hey there! I'm Kevin.</h1>
 - 🌱 I’m currently working on TryHackMe OSI Models and a cluster computation project using 6 raspberrypies
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/YQitE4YNQNahy/giphy.gif?cid=790b761138a5421780f34de8e73ed6bc1437ef874f0d95c8&rid=giphy.gif&ct=g" width="500"/>
+<img align="right" alt="GIF" src="https://i.imgur.com/hDOfuOx.mp4" width="500"/>
 
 Visit my webpage: [kevinflores.net](https://kevinflores.net/)
 
