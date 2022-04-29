@@ -1,11 +1,18 @@
 
 <h1> Hey there! I'm Kevin.</h1>
-- 🌱 I’m currently working on TryHackMe OSI Models and a cluster computation project using 6 raspberrypies
-<img align="right" alt="GIF" src="professional_developer.gif" width="500" "/>
+    <img align="right" alt="GIF" src="professional_developer.gif" width="500" "/>
 
-Visit my webpage: [kevinflores.net](https://kevinflores.net/)
+### I’m currently working on:
+-    Attending University of Houston Majoring in Computer Science, ***Graduating Fall 2022***
+-    TryHackMe OSI Models and a cluster computation project using 6 raspberrypies
+-    Creating my own mailing server tied to my domain
+-    Creating a P2P chat server and client with E2E ecription
 
-Dev Music!!!! 
+
+
+### Visit my webpage: [**kevinflores.net**](https://kevinflores.net/)
+
+### **Dev Music**  __*`!!!!`*__ 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=knightheart13&cover_image=true&theme=novatorem&bar_color=2eff62&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
