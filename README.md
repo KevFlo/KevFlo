@@ -70,16 +70,16 @@ You can find me on:
 
 [![KevFlo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KevFlo&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/KevFlo/ClientV5/pull/4) in [KevFlo/ClientV5](https://github.com/KevFlo/ClientV5)
-2. 🎉 Merged PR [#3](https://github.com/KevFlo/ClientV5/pull/3) in [KevFlo/ClientV5](https://github.com/KevFlo/ClientV5)
-3. 🎉 Merged PR [#2](https://github.com/KevFlo/ClientV5/pull/2) in [KevFlo/ClientV5](https://github.com/KevFlo/ClientV5)
-4. 🎉 Merged PR [#3](https://github.com/KevFlo/Clientv4-1/pull/3) in [KevFlo/Clientv4-1](https://github.com/KevFlo/Clientv4-1)
-5. 💪 Opened PR [#3](https://github.com/KevFlo/Clientv4-1/pull/3) in [KevFlo/Clientv4-1](https://github.com/KevFlo/Clientv4-1)
-6. 🎉 Merged PR [#6](https://github.com/Machevin/Clientv4/pull/6) in [Machevin/Clientv4](https://github.com/Machevin/Clientv4)
-7. 🗣 Commented on [#6](https://github.com/Machevin/Clientv4/issues/6) in [Machevin/Clientv4](https://github.com/Machevin/Clientv4)
-8. 🎉 Merged PR [#5](https://github.com/Machevin/Clientv4/pull/5) in [Machevin/Clientv4](https://github.com/Machevin/Clientv4)
-9. 💪 Opened PR [#5](https://github.com/Machevin/Clientv4/pull/5) in [Machevin/Clientv4](https://github.com/Machevin/Clientv4)
-10. 🎉 Merged PR [#2](https://github.com/KevFlo/Clientv4-1/pull/2) in [KevFlo/Clientv4-1](https://github.com/KevFlo/Clientv4-1)
+1. 🎉 Merged PR [#7](https://github.com/KevFlo/ClientV5/pull/7) in [KevFlo/ClientV5](https://github.com/KevFlo/ClientV5)
+2. 🎉 Merged PR [#6](https://github.com/KevFlo/ClientV5/pull/6) in [KevFlo/ClientV5](https://github.com/KevFlo/ClientV5)
+3. 🎉 Merged PR [#5](https://github.com/KevFlo/ClientV5/pull/5) in [KevFlo/ClientV5](https://github.com/KevFlo/ClientV5)
+4. 🎉 Merged PR [#4](https://github.com/KevFlo/ClientV5/pull/4) in [KevFlo/ClientV5](https://github.com/KevFlo/ClientV5)
+5. 🎉 Merged PR [#3](https://github.com/KevFlo/ClientV5/pull/3) in [KevFlo/ClientV5](https://github.com/KevFlo/ClientV5)
+6. 🎉 Merged PR [#2](https://github.com/KevFlo/ClientV5/pull/2) in [KevFlo/ClientV5](https://github.com/KevFlo/ClientV5)
+7. 🎉 Merged PR [#3](https://github.com/KevFlo/Clientv4-1/pull/3) in [KevFlo/Clientv4-1](https://github.com/KevFlo/Clientv4-1)
+8. 💪 Opened PR [#3](https://github.com/KevFlo/Clientv4-1/pull/3) in [KevFlo/Clientv4-1](https://github.com/KevFlo/Clientv4-1)
+9. 🎉 Merged PR [#6](https://github.com/Machevin/Clientv4/pull/6) in [Machevin/Clientv4](https://github.com/Machevin/Clientv4)
+10. 🗣 Commented on [#6](https://github.com/Machevin/Clientv4/issues/6) in [Machevin/Clientv4](https://github.com/Machevin/Clientv4)
 <!--END_SECTION:activity-->
 
 ---
