@@ -26,8 +26,8 @@ You can find me on:
 
 [3.2]: https://i.imgur.com/IwuydvD.png (LinkedIn icon without padding)
     https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[2.2]: https://img.icons8.com/color/25/000000/instagram-new--v1.png
-    https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+[2.2]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+    
 
 <!-- Links to your social media accounts -->
 
