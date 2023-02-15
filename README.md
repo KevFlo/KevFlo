@@ -3,9 +3,9 @@
     <img align="right" alt="GIF" src="professional_developer.gif" width="500" "/>
 
 ### I’m currently working on:
--    Attending University of Houston Majoring in Computer Science, ***Graduating Fall 2022***
+-    Attending University of Houston Majoring in Computer Science, ***Graduating Spring 2023***
 -    TryHackMe OSI Models and a cluster computation project using 6 raspberrypies
--    Creating my own mailing server tied to my domain
+-    Creating my own Private Cloud Server, and learning about VPN tunneling 
 -    Creating a P2P chat server and client with E2E ecription
 
 
