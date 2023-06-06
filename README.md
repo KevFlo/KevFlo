@@ -6,7 +6,7 @@
 -    Attending University of Houston Majoring in Computer Science, ***Graduating Spring 2023***
 -    TryHackMe OSI Models and a cluster computation project using 6 raspberrypies
 -    Creating my own Private Cloud Server, and learning about VPN tunneling 
--    Creating a P2P chat server and client with E2E ecription
+-    Creating a P2P chat server and client with E2E encryption
 
 
 
