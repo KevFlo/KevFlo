@@ -3,10 +3,10 @@
     <img align="right" alt="GIF" src="professional_developer.gif" width="500" "/>
 
 ### I’m currently working on:
--    Attending University of Houston Majoring in Computer Science, ***Graduating Spring 2023***
 -    TryHackMe OSI Models and a cluster computation project using 6 raspberrypies
--    Creating my own Private Cloud Server, and learning about VPN tunneling 
+-    Creating my own Private Cloud Server, and learning about VPN tunneling with PiKVM 
 -    Creating a P2P chat server and client with E2E encryption
+-    Using TuringPi2 with Turing RK1 8Gb, Coral, 6-Pi Cluster, and other techs to set up home lab. 
 
 
 
@@ -20,36 +20,41 @@
 You can find me on:
 
 
- [![LinkedIn][3.2]][3] [![Instagram][2.2]][2]
-
+ [![LinkedIn][3.2]][3] 
+<!-- [![Instagram][2.2]][2] -->
 <!-- Icons -->
 
 [3.2]: https://i.imgur.com/IwuydvD.png (LinkedIn icon without padding)
-[2.2]: https://img.icons8.com/color/25/000000/instagram-new--v1.png
+<!-- [2.2]: https://img.icons8.com/color/25/000000/instagram-new--v1.png -->
 
 
 <!-- Links to your social media accounts -->
 
 [3]: https://www.linkedin.com/in/flores-kevin/
-[2]: https://www.instagram.com/kevoobot/
+<!-- [2]: https://www.instagram.com// -->
 
 ---
 
 ## 🚀💻 Technologies & Tools
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Static Badge](https://img.shields.io/badge/-bitbucket?style=for-the-badge&logo=bitbucket&logoColor=white&label=bitbucket&labelColor=blue&color=blue)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
-
+![Ubuntu2204](https://img.shields.io/badge/-Ubuntu22?style=for-the-badge&logo=Ubuntu&logoColor=white&label=Ubuntu22.04&labelColor=orange&color=orange)
+![Oracle](https://img.shields.io/badge/-oracle?style=for-the-badge&logo=oracle&logoColor=white&label=oracle&labelColor=black&color=black)
+![CentOS](https://img.shields.io/badge/-CentOS?style=for-the-badge&logo=centos&logoColor=white&label=CentOS&labelColor=black&color=black)
 ![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord)
+
+![Tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+![Ansible](https://img.shields.io/badge/-ansible?style=for-the-badge&logo=ansible&logoColor=white&label=ansible&labelColor=black&color=black)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
